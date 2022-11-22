@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+}
+
+.start-btn {
+    border: 2px solid rgb(100, 100, 184);
+    padding: 8px 16px;
+    border-radius: 4px;
+    background-color: white;
+}
+
+button svg{
+    border: 6px solid rgb(100, 100, 184);
+    font-weight: normal;
+    border-radius: 24px;
+    padding: 8px;
+    width: 100px;
+    height: 100px;
+    fill: rgb(100, 100, 184);
+}
+
+.choices-display svg{
+    width: 100px;
+    height: 100px;
+
+}
